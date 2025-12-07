@@ -6,12 +6,12 @@ I am focused on improving my programming skills through personal projects, mainl
 
 At the moment, I am:
 
-    Developing console applications in Java
+Developing console applications in Java
 
-    Learning the fundamentals of C#
+Learning the fundamentals of C# and Java
 
-    Practicing programming logic with arrays, loops, conditions, and methods
+Practicing programming logic with arrays, loops, conditions, and methods
 
-    Building a personal GitHub portfolio for internships and junior opportunities
+ Building a personal GitHub portfolio for internships and junior opportunities
 
 In my free time, I work with 3D modeling and animation using Blender, and I have experience with Unreal Engine 4 and 5, as well as Unity in both 2D and 3D. These interests help me stay motivated, creative, and technically curious.
